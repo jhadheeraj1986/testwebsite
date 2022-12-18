@@ -1,0 +1,437 @@
+# Copyright (C) 2022 ScriptsTown
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: PressBook Masonry Blogs 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/pressbook-masonry-blogs\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-10-12T22:36:34+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: pressbook-masonry-blogs\n"
+
+#. Theme Name of the theme
+msgid "PressBook Masonry Blogs"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://scriptstown.com/wordpress-themes/pressbook-masonry-blogs/"
+msgstr ""
+
+#. Description of the theme
+msgid "A unique and multipurpose theme designed for professional bloggers, news writers, educational websites, and portfolios. PressBook Masonry Blogs comes with a masonry grid layout for blog posts listing available with multiple options for customization like the number of columns, column margin, etc. The branding area of the header includes the logo and title at the center. This theme is beautifully designed and well-crafted for a clean, refreshing, and user-friendly look. The theme is fully mobile responsive, SEO-optimized, lightweight and fast with minimal dependency. Also, this theme supports infinite scrolling and load more button with the Jetpack plugin as well as WooCommerce for creating an eCommerce online shop. This theme can also be used by freelancers, digital marketing agency, story writers, businesses, IT firms, job publishers, events, recruiters, corporates, affiliates, consulting institutes, schools, and academic sites. The features include a multi-level accessible dropdown menu, multiple RGBA and gradient color options, related posts grid, single and double sticky sidebars, top navigation and social links menu, sidebar and footer widgets, and many more. This theme can also be the best choice for photobloggers, vloggers, movies, images and videos gallery, gaming, news media, magazines, and entertainment websites. Also, it is a perfect choice for creative graphics designers, artists, photography, and publishers. With multiple page templates and page-level settings, the theme is compatible with block editor as well as page builder plugins like Elementor, WPBakery, etc. The theme comes with many advertisement spaces including the top banner with a link option. It is easy to set up and you can quickly create an eye-catching, simple, and elegant blog with modern typography."
+msgstr ""
+
+#. Author of the theme
+msgid "ScriptsTown"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://scriptstown.com/"
+msgstr ""
+
+#: functions.php:85
+msgctxt "page title"
+msgid "PressBook Masonry Blogs"
+msgstr ""
+
+#: functions.php:96
+msgctxt "menu title"
+msgid "PressBook Masonry"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Source Serif Pro, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-blogs-editor.php:41
+msgctxt "Source Serif Pro font (in the editor): on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Philosopher, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-blogs-editor.php:47
+msgctxt "Philosopher font (in the editor): on or off"
+msgid "on"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:83
+msgid "Masonry Grid - Columns Margin"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:84
+msgid "Adjust the margin between columns with a pixel value. Default: 24"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:112
+msgid "Number Of Columns (2xl) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:113
+msgid "Extra Large (2xl) Screen-Devices. Default: 3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:141
+msgid "Number Of Columns (xl) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:142
+msgid "Extra Large (xl) Screen-Devices. Default: 3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:170
+msgid "Number Of Columns (lg) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:171
+msgid "Large (lg) Screen-Devices. Default: 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:199
+msgid "Number Of Columns (md) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:200
+msgid "Medium (md) Screen-Devices. Default: 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:228
+msgid "Number Of Columns (sm) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:229
+msgid "Small (sm) Screen-Devices. Default: 1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:257
+msgid "Number Of Columns (xs) - Masonry"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:258
+msgid "Extra Small (xs) Screen-Devices. Default: 1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:324
+msgid "Post Card Shadow Effect"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:325
+msgid "Show shadow effect around the post card."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:368
+msgid "Hide summary for all posts in a grid."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:369
+msgid "Show summary only when there is no featured image."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:370
+msgid "Show summary even when there is featured image."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:372
+msgid "Post Card Summary"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:373
+msgid "Select when to show the post summary in the posts grid."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:468
+msgctxt "Number of columns - Masonry"
+msgid "1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:469
+msgctxt "Number of columns - Masonry"
+msgid "2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:470
+msgctxt "Number of columns - Masonry"
+msgid "3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:471
+msgctxt "Number of columns - Masonry"
+msgid "4"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:472
+msgctxt "Number of columns - Masonry"
+msgid "5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:473
+msgctxt "Number of columns - Masonry"
+msgid "6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-options.php:474
+msgctxt "Number of columns - Masonry"
+msgid "7"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-primarynavbar.php:44
+msgid "Primary Navbar Hover Background Color"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:38
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:256
+msgid "Related Posts"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:39
+msgid "You can customize the related posts options in here."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:65
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:90
+msgid "Related Posts Title"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:91
+msgid "You can change the heading of the related posts that is shown below the single post content."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:117
+msgid "Categories"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:118
+msgid "Tags"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:120
+msgid "Related Posts Based On"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:121
+msgid "Select the source for related posts to display. Default: Categories"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:147
+msgid "Related Posts Count"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:148
+msgid "Set the number of related posts. Default: 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:174
+msgid "Related Posts Order"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:175
+msgid "Designates the ascending or descending order. Default: Latest First"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:201
+msgid "Related Posts Order By"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:202
+msgid "Sort retrieved related posts by parameter. Default: Random Order"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:227
+msgid "Show Taxonomy On Hover"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:228
+msgid "Whether to show the post category or tag on hover."
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:324
+msgid "All Posts"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:325
+msgid "Posts from Selected Categories"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:326
+msgid "Posts from Selected Tags"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:337
+msgctxt "Related Posts Count"
+msgid "1"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:338
+msgctxt "Related Posts Count"
+msgid "2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:339
+msgctxt "Related Posts Count"
+msgid "3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:340
+msgctxt "Related Posts Count"
+msgid "4"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:341
+msgctxt "Related Posts Count"
+msgid "5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:342
+msgctxt "Related Posts Count"
+msgid "6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:343
+msgctxt "Related Posts Count"
+msgid "7"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:344
+msgctxt "Related Posts Count"
+msgid "8"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:345
+msgctxt "Related Posts Count"
+msgid "9"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:346
+msgctxt "Related Posts Count"
+msgid "10"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:347
+msgctxt "Related Posts Count"
+msgid "11"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:348
+msgctxt "Related Posts Count"
+msgid "12"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:359
+msgid "Latest First"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:360
+msgid "Oldest First"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:371
+msgid "Random Order"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:372
+msgid "Post Date"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-related-posts.php:373
+msgid "Last Modified Date"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Source Serif Pro, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-blogs-scripts.php:83
+msgctxt "Source Serif Pro font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Philosopher, translate this to 'off'. Do not translate into your own language.
+#: inc/classes/class-pressbook-masonry-blogs-scripts.php:89
+msgctxt "Philosopher font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:32
+msgctxt "Default: Logo Size (Small-Screen Devices)"
+msgid "Default: Size 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:33
+msgctxt "Default: Logo Size (Medium-Screen Devices)"
+msgid "Default: Size 5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:34
+msgctxt "Default: Logo Size (Large-Screen Devices)"
+msgid "Default: Size 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:36
+msgctxt "Default: Site Title Size (Small-Screen Devices)"
+msgid "Default: Size 3"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:37
+msgctxt "Default: Site Title Size (Medium-Screen Devices)"
+msgid "Default: Size 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:38
+msgctxt "Default: Site Title Size (Large-Screen Devices)"
+msgid "Default: Size 5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:40
+msgctxt "Default: Tagline (Small-Screen Devices)"
+msgid "Default: Size 2"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:41
+msgctxt "Default: Tagline (Medium-Screen Devices)"
+msgid "Default: Size 4"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:42
+msgctxt "Default: Tagline (Large-Screen Devices)"
+msgid "Default: Size 5"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:107
+msgid "Size 6"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:108
+msgid "Size 7"
+msgstr ""
+
+#: inc/classes/class-pressbook-masonry-blogs-siteidentity.php:109
+msgid "Size 8"
+msgstr ""
+
+#. translators: %s: search query
+#: index.php:53
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:28
+msgid "Previous Post:"
+msgstr ""
+
+#: single.php:30
+msgid "Next Post:"
+msgstr ""
+
+#. translators: %s: theme name with URL
+#: template-parts/footer/copyright-text.php:26
+msgctxt "footer credit"
+msgid "Powered by %s"
+msgstr ""
+
+#: template-parts/header/top-navbar.php:18
+msgid "Top Menu"
+msgstr ""
+
+#: template-parts/header/top-navbar.php:34
+msgid "Social Links"
+msgstr ""
